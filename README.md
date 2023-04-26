@@ -1,9 +1,5 @@
-### Hi there 👋
+                                                                Hi I'm Emre 👋
 
-<!--
-**emralt/emralt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I have always a curiosity for the IT field that's why
 - 🌱 I aim to learn Javascript and React and become a Frontend Developer.

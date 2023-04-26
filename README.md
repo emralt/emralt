@@ -1,4 +1,4 @@
-                                                                Hi I'm Emre 👋
+                                                            Hi I'm Emre 👋
 
 
 - 🔭 I have always a curiosity for the IT field that's why

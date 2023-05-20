@@ -1,5 +1,6 @@
                                                             
-                                                        Hi I'm Emre
+                                                        # Hi I'm Emre
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I have always a curiosity for the IT field.
 - 🌱 I aim to learn HTML, CSS, Javascript and React and become a Frontend Developer.

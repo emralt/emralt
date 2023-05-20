@@ -13,4 +13,4 @@ https://www.instagram.com/emrralt
 
 
 ## Languages and Tools:
-<i class="fa-brands fa-html5" style="color: #ff8000;"></i>; 
+<i class="fa-brands fa-html5" style="color: #ff8000;"></i> 

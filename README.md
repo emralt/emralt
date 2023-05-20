@@ -1,12 +1,9 @@
-                                                            
-                                                        <h1>Hi I'm Emre</h1>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I have always a curiosity for the IT field.
-- 🌱 I aim to learn HTML, CSS, Javascript and React and become a Frontend Developer.
-- ⚡ I have high communication skills and motivation. I am a solution-oriented, disciplined, individual and team-oriented person.
-- 📫 How to reach me: emraltunn@gmail.com
-
-Connect with me:
-https://www.instagram.com/emrralt
-
+## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
+- 🔭 I’m currently working on a large and special application.
+- 🌱 I’m currently learning 😂
+- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
+- 🤔 I’m looking for help with Flutter front-end developer
+- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
+- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️

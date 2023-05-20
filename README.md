@@ -1,4 +1,4 @@
-<img align="right" justify="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300"/>
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300"/>
 
 ## Hi I'm Emre, React Frontend Developer
 - 🔭 I have always a curiosity for the IT field.

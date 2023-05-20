@@ -8,5 +8,5 @@
 - ⚡ Hobbies and interests: volleyball, swimming, video game and cycling.
 - 📫 How to reach me: emraltunn@gmail.com
 
-Connect with me:
-https://www.instagram.com/emrralt
+  Connect with me:
+  https://www.instagram.com/emrralt
